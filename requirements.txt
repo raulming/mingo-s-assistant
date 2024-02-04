@@ -1,7 +1,7 @@
 streamlit==1.25.0
 
 modelscope==1.9.5
-pytorch=2.1.1
+torch==2.1.1
 transformers==4.34.0
 transformers-stream-generator=0.0.4
 sentencepiece==0.1.99

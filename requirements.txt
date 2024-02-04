@@ -1,6 +1,7 @@
 streamlit==1.25.0
 
 modelscope==1.9.5
+torch=2.1.1
 transformers==4.34.0
 sentencepiece==0.1.99
 accelerate==0.24.1
